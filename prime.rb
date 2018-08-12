@@ -1,3 +1,4 @@
+require 'prime'
 def prime?(num)
-num.prime?
+prime = prime.prime?(num)
 end
